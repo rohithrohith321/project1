@@ -1,0 +1,289 @@
+img{
+    width:20% ;
+    margin-left:100px ;
+}
+    
+
+
+#d2{
+    background-image: url(./bosa-agency-banner.jpg);
+    background-size:cover;
+    width:100%;
+    height:700px;
+    margin-left:10px;
+    margin-right:10px;
+}
+#d3{
+    font-size: xx-large;
+    color:black;
+font-style: inherit;
+margin-left:70px ;
+padding-top:100px ;
+
+}
+span{
+    color: red;
+}
+#d4{
+    font-size:larger;
+    margin-left:100px ;
+}
+#d5{
+    font-size:x-large;
+    margin-left:800px;
+
+}
+#d1{
+    margin-left:900px;
+}
+button{
+    height:60px ;
+    width:13%;
+    border-radius:100px;
+    font-size: medium;
+    color:white ;
+    background-color:red;
+    font-weight:bolder;
+}
+button:hover{
+    background-color: blue;
+}
+body{
+    width:100%;
+    height: 4000px; 
+    background-color:whitesmoke;
+}
+.c1{
+    text-align: center;
+    color: rgba(0, 0, 255, 0.735);
+    margin-top:100px ;
+}
+.navbar{
+    display:flex;
+    align-items:center;  
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left:100px ;
+}
+nav ul li a{
+    text-decoration: none;
+}
+.c4{
+    width:18%;
+    height:300px;
+    border:white 5px solid ;
+    background-color: white;
+    margin-left: 17px;
+    margin-top: 52px;
+    border-radius:30px ;
+    color: white;
+    text-align: center;
+    color: blue;
+}
+h1{
+    margin-top:130px ;
+}
+.c5{
+    width:18%;
+    height:300px;
+    border:white 5px solid ;
+    background-color:white;
+    color: blue;
+    margin-left:330px;
+    margin-top:-311px;
+    border-radius:30px ;
+    text-align: center;
+
+}
+.c14{
+    width:18%;
+    height:300px;
+    border:white 5px solid ;
+    background-color:white;
+    color: blue;
+    margin-left:636px;
+    margin-top:-313px;
+    border-radius:30px;
+    
+}
+.c14 h1{
+    margin-left:20px;
+}
+.c15{
+    width:18%;
+    height:300px;
+    border:white 5px solid ;
+    background-color:white;
+    color: blue;
+    border-radius:30px;
+    margin-left: 960px;
+    margin-top: -309px;
+
+}
+.c15 h1{
+    margin-left:20px;
+}
+h1{
+    margin-top:100px ;
+}
+
+.c8{
+    font-size:large;
+    margin-left:40px ;
+    font-family: initial;
+    font-style:bold;
+}
+.c8 p{
+    color: blue;
+}
+.c8 img{
+width:30%;
+margin-left: 721px;
+ margin-top:-500px;
+}
+
+.c8 ul li{
+    color: blue;
+}
+#d10{
+    width:95%;
+    height: 400px;
+    background-color: rgba(24, 4, 4, 0.541);
+    border-radius: 30px;
+    margin-left: 30px;
+}
+#d11{
+    color:white ;
+    text-align: center;
+    font-weight:bold;
+    font-size:x-large;
+}
+.c12{
+    font-size:large;
+    margin-left:50px ;
+    font-family: initial;
+    font-style:bold;
+
+}
+.c12 p{
+    color: blue;
+}
+.c12 img{
+    width:40%;
+    margin-left: 385px;
+    margin-top: -344px;
+}
+
+#d12{
+width:15%;  
+height:130px;  
+background-color: bisque;
+margin-left:30px;
+margin-top:50px;
+border-radius:10px;
+}
+#d12 img{
+    width:80%;
+    margin-left:1px ;
+    margin-top:10px ;
+}
+#d13{
+ width:15%;  
+height:130px;  
+background-color: bisque;
+border-radius:10px;
+margin-left: 279px;
+    margin-top: 51px;
+
+}
+#d13 img{
+    width:60%;
+    margin-left: 51px;
+    margin-top: 33px;
+}
+#d14{
+width:15%;
+height:130px;  
+background-color: bisque;
+margin-left:30px;
+margin-top:50px;
+border-radius:10px;
+
+}
+#d14 img{
+    width: 80%;
+    margin-left: 12px;
+    margin-top: 32px; 
+}
+#d15{
+    width:15%;  
+    height:130px;  
+    background-color: bisque;
+    margin-left: 271px;
+    margin-top: -492px;
+    border-radius:10px;
+    
+}
+#d15 img{
+    width:50%;
+    margin-left:50px ;
+    margin-top:15px ;
+
+}
+#d16{
+    width:15%;  
+    height:130px;  
+    background-color: bisque;
+    margin-left:30px;
+    margin-top:50px;
+    border-radius:10px;
+
+}
+#d16 img{
+    width:50%;
+    margin-left:45px ;
+margin-top:15px ;
+}
+#d18{
+    width:15%;
+    height:130px;  
+    background-color: bisque;
+    margin-left: 281px;
+    margin-top: 49px;
+    border-radius:10px;
+
+}
+#d18 img{
+    width: 70%;
+    margin-left: 36px;
+    margin-top: 18px;
+}
+.c17 {
+    margin-top:-439px;
+    margin-left: 759px;
+    font-size:large;
+}
+.c17 p{
+    margin-top: 43px;
+    margin-left:-41px;
+    font-size:large;
+    color: blue;
+}
+.c19 {
+    margin-top:277px;
+    margin-left:114px;
+    font-size:large;
+}
+.c19 p{
+    color: blue;
+    margin-left:-50px ;
+}
+form{
+  margin-left: 782px;
+  margin-top: -516px;}
